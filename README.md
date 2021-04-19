@@ -2,7 +2,15 @@
 
 This repository is for the OTF Data Analysis webinar on May 6, 2021, presented by Peter Beens ([@pbeens](https://twitter.com/pbeens)) and Grant Hutchison ([@grant_hutchison](https://twitter.com/grant_hutchison)).
 
-The presentation is a live demo of Google Colab, Google's implementation of Jupyter Notebook. We will learn how Colab is an excellent tool for the "Compuational Thinking" process, in that it's an ideal way to analyze and document a problem and formulate a programming solution.
+The presentation is a live demo of Google Colab, Google's implementation of Jupyter Notebook. We will learn how Colab is an excellent tool for the "Computational Thinking" process, in that it's an ideal way to analyze and document a problem and formulate a programming solution.
+
+## Basic Process
+
+- Define the Objective
+- Get the Data
+- Have a Quick Look at the Data
+- Clean/Fix the Data (if necessary)
+- Plot the Data
 
 ## Data Sources
 

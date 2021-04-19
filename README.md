@@ -12,6 +12,7 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 ## Other Data Science Resources
 
 - [Coursera - Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
+- [How to Export Pandas DataFrame to a CSV File](https://datatofish.com/export-dataframe-to-csv/)
 
 ## Plotting Resources
 

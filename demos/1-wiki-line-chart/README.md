@@ -9,6 +9,6 @@ The columns of interest are:
 
 The titles of the chart will be:
 
-- Elapsed Time (s) (for the x-axis)
-- Speed (m/s) (for the y-axis)
-- Line Chart Demo (for the main title)
+- x-axis: Elapsed Time (s)
+- y-axis: Speed (m/s)
+- main title: Line Chart Demo

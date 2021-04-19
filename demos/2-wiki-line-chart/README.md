@@ -12,3 +12,7 @@ The titles of the chart will be:
 - x-axis: Elapsed Time (s)
 - y-axis: Speed (m/s)
 - main title: Line Chart Demo
+
+## Suggestions or Issues?
+
+Please let me know [here](https://github.com/pbeens/OTF-Data-Analysis-2021-05/issues). (requires a GitHub account)

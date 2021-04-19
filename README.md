@@ -19,3 +19,7 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 ## Plotting Resources
 
 - [Line Styles](https://matplotlib.org/3.0.3/gallery/lines_bars_and_markers/line_styles_reference.html)
+
+## Suggestions or Issues?
+
+Please let me know [here](https://github.com/pbeens/OTF-Data-Analysis-2021-05/issues). (requires a GitHub account)

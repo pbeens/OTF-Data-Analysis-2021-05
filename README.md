@@ -9,6 +9,10 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 - [Kaggle](https://www.kaggle.com/)
 - [NY Times Covid Data](https://github.com/nytimes/covid-19-data)
 
-## Other Resources
+## Other Data Science Resources
 
 - [Coursera - Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
+
+## Plotting Resources
+
+- [Line Styles](https://matplotlib.org/3.0.3/gallery/lines_bars_and_markers/line_styles_reference.html)

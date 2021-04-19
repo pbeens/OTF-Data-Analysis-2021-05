@@ -13,7 +13,8 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 
 - [Coursera - Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
 - [Data to Fish: Python Tutorials](https://datatofish.com/python-tutorials/)
-- [How to Export Pandas DataFrame to a CSV File](https://datatofish.com/export-dataframe-to-csv/)
+- [Data to Fish: How to Export Pandas DataFrame to a CSV File](https://datatofish.com/export-dataframe-to-csv/)
+- [Stack Overflow: Convert percent string to float in pandas read_csv](https://stackoverflow.com/questions/25669588/convert-percent-string-to-float-in-pandas-read-csv)
 
 ## Plotting Resources
 

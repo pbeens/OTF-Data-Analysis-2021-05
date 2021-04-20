@@ -29,6 +29,7 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 - [Data to Fish: How to Export Pandas DataFrame to a CSV File](https://datatofish.com/export-dataframe-to-csv/)
 - [Stack Overflow: Convert percent string to float in pandas read_csv](https://stackoverflow.com/questions/25669588/convert-percent-string-to-float-in-pandas-read-csv)
 - [Python Pandas Tutorial (Part 4): Filtering - Using Conditionals to Filter Rows and Columns](https://www.youtube.com/watch?v=Lw2rlcxScZY)
+- [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 
 ## Plotting Resources
 

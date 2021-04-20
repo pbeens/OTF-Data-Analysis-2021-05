@@ -17,13 +17,18 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 - [Kaggle](https://www.kaggle.com/)
 - [NY Times Covid Data](https://github.com/nytimes/covid-19-data)
 
+## Colab Resources
+
+- [Colaboratory Frequently Asked Questions](https://research.google.com/colaboratory/faq.html)
+- [Welcome to Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)
+
 ## Other Data Science Resources
 
-- [Welcome to Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)
 - [Coursera - Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
 - [Data to Fish: Python Tutorials](https://datatofish.com/python-tutorials/)
 - [Data to Fish: How to Export Pandas DataFrame to a CSV File](https://datatofish.com/export-dataframe-to-csv/)
 - [Stack Overflow: Convert percent string to float in pandas read_csv](https://stackoverflow.com/questions/25669588/convert-percent-string-to-float-in-pandas-read-csv)
+- [Python Pandas Tutorial (Part 4): Filtering - Using Conditionals to Filter Rows and Columns](https://www.youtube.com/watch?v=Lw2rlcxScZY)
 
 ## Plotting Resources
 

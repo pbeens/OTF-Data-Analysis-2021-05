@@ -15,7 +15,9 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 ## Data Sources
 
 - [Kaggle](https://www.kaggle.com/)
-- [NY Times Covid Data](https://github.com/nytimes/covid-19-data)
+- [NY Times Covid Data (US)](https://github.com/nytimes/covid-19-data)
+- [Covid Data by Country](https://github.com/owid/covid-19-data/blob/master/public/data/latest/owid-covid-latest.csv)
+- [Our World in Data](https://ourworldindata.org/)
 
 ## Colab Resources
 

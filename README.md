@@ -2,7 +2,7 @@
 
 This repository is for the OTF Data Analysis webinar on May 6, 2021, presented by Peter Beens ([@pbeens](https://twitter.com/pbeens)) and Grant Hutchison ([@grant_hutchison](https://twitter.com/grant_hutchison)).
 
-The presentation is a live demo of Google Colab, Google's implementation of Jupyter Notebook. We will learn how Colab is an excellent tool for the Computational Thinking process, in that it's an ideal way to analyze and document a "problem" and formulate a programming solution.
+The presentation is a live demo of Google Colab, Google's implementation of Jupyter Notebook. We will learn how Colab is an excellent tool for the "Computational Thinking" process, in that it's an ideal way to analyze and document a problem and formulate a programming solution.
 
 ## Basic Process
 
@@ -19,8 +19,9 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 
 ## Colab Resources
 
-- [Colaboratory Frequently Asked Questions](https://research.google.com/colaboratory/faq.html)
 - [Welcome to Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)
+- [Colaboratory Frequently Asked Questions](https://research.google.com/colaboratory/faq.html)
+
 
 ## Other Data Science Resources
 
@@ -30,6 +31,7 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 - [Stack Overflow: Convert percent string to float in pandas read_csv](https://stackoverflow.com/questions/25669588/convert-percent-string-to-float-in-pandas-read-csv)
 - [Python Pandas Tutorial (Part 4): Filtering - Using Conditionals to Filter Rows and Columns](https://www.youtube.com/watch?v=Lw2rlcxScZY)
 - [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+- [Convert the column type from string to datetime format in Pandas dataframe](https://www.geeksforgeeks.org/convert-the-column-type-from-string-to-datetime-format-in-pandas-dataframe/)
 
 ## Plotting Resources
 

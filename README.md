@@ -18,6 +18,8 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 - [NY Times Covid Data (US)](https://github.com/nytimes/covid-19-data)
 - [Covid Data by Country](https://github.com/owid/covid-19-data/blob/master/public/data/latest/owid-covid-latest.csv)
 - [Our World in Data](https://ourworldindata.org/)
+- [World Bank](https://data.worldbank.org/)
+- Article: [These Are The Best Free Open Data Sources Anyone Can Use](https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/)
 
 ## Colab Resources
 

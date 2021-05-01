@@ -40,6 +40,7 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 ## Plotting Resources
 
 - [Line Styles](https://matplotlib.org/3.0.3/gallery/lines_bars_and_markers/line_styles_reference.html)
+- [Writing mathematical expressions](https://matplotlib.org/stable/tutorials/text/mathtext.html)
 
 ## Suggestions or Issues?
 

@@ -39,6 +39,7 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 - [Convert the column type from string to datetime format in Pandas dataframe](https://www.geeksforgeeks.org/convert-the-column-type-from-string-to-datetime-format-in-pandas-dataframe/)
 - [How to Export Pandas DataFrame to CSV](https://towardsdatascience.com/how-to-export-pandas-dataframe-to-csv-2038e43d9c03)
 - [Delete column from pandas DataFrame](https://stackoverflow.com/questions/13411544/delete-column-from-pandas-dataframe)
+- [Indexing and Slicing](https://realpython.com/lessons/indexing-and-slicing/)
 
 ## Plotting Resources
 

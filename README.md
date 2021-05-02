@@ -37,6 +37,7 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 - [Python Pandas Tutorial (Part 4): Filtering - Using Conditionals to Filter Rows and Columns](https://www.youtube.com/watch?v=Lw2rlcxScZY)
 - [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 - [Convert the column type from string to datetime format in Pandas dataframe](https://www.geeksforgeeks.org/convert-the-column-type-from-string-to-datetime-format-in-pandas-dataframe/)
+- [How to Export Pandas DataFrame to CSV](https://towardsdatascience.com/how-to-export-pandas-dataframe-to-csv-2038e43d9c03)
 
 ## Plotting Resources
 

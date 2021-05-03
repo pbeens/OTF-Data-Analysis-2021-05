@@ -17,11 +17,15 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 
 ## Basic Process
 
-- Define the Objective
-- Get the Data
-- Have a Quick Look at the Data
-- Clean/Fix/Filter the Data (if necessary)
-- Plot the Data
+- Input
+  - Define the Objective
+  - Get the Data
+- Process
+  - Have a Quick Look at the Data
+  - Clean/Fix/Filter the Data (if necessary)
+- Output
+  - Plot and/or export the Data
+  - Save chart picture
 
 ## Data Sources
 

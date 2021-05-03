@@ -4,6 +4,15 @@ This repository is for the OTF Data Analysis webinar on May 6, 2021, presented b
 
 The presentation is a live demo of Google Colab, Google's implementation of Jupyter Notebook. We will learn how Colab is an excellent tool for the "Computational Thinking" process, in that it's an ideal way to analyze and document a problem and formulate a programming solution.
 
+## Table of Contents
+
+* [Basic Process](#basic-process)
+* [Data Sources](#data-sources)
+* [Colab Resources](#colab-resources)
+* [Other Data Science Resources](#other-data-science-resources)
+* [Plotting Resources](#plotting-resources)
+* [Suggestions or Issues?](#suggestions-or-issues-)
+
 ## Basic Process
 
 - Define the Objective

@@ -6,12 +6,14 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 
 ## Table of Contents
 
-* [Basic Process](#basic-process)
-* [Data Sources](#data-sources)
-* [Colab Resources](#colab-resources)
-* [Other Data Science Resources](#other-data-science-resources)
-* [Plotting Resources](#plotting-resources)
-* [Suggestions or Issues?](#suggestions-or-issues-)
+- [OTF-Data-Analysis-2021-05](#otf-data-analysis-2021-05)
+  - [Table of Contents](#table-of-contents)
+  - [Basic Process](#basic-process)
+  - [Data Sources](#data-sources)
+  - [Colab Resources](#colab-resources)
+  - [Other Data Science Resources](#other-data-science-resources)
+  - [Plotting Resources](#plotting-resources)
+  - [Suggestions or Issues?](#suggestions-or-issues)
 
 ## Basic Process
 
@@ -50,6 +52,7 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 - [Delete column from pandas DataFrame](https://stackoverflow.com/questions/13411544/delete-column-from-pandas-dataframe)
 - [Indexing and Slicing](https://realpython.com/lessons/indexing-and-slicing/)
 - [List Comprehension](https://www.w3schools.com/python/python_lists_comprehension.asp)
+- [Pandas Cheat Sheet (PDF)](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
 ## Plotting Resources
 

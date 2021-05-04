@@ -40,7 +40,8 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 
 - [Welcome to Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)
 - [Colaboratory Frequently Asked Questions](https://research.google.com/colaboratory/faq.html)
-- [Open in Colab Chrome Extension](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo) (Lets you open Jupyter Notebooks directly from GitHub)
+- ['Open in Colab' Chrome Extension](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo) (Lets you open Jupyter Notebooks directly from GitHub)
+- [Markdown Guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
 
 
 ## Other Data Science Resources

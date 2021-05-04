@@ -57,6 +57,7 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 - [Indexing and Slicing](https://realpython.com/lessons/indexing-and-slicing/)
 - [List Comprehension](https://www.w3schools.com/python/python_lists_comprehension.asp)
 - [Pandas Cheat Sheet (PDF)](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+- [Python For Data Science Cheat Sheet Pandas Basics (PDF)](http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3)
 
 ## Plotting Resources
 

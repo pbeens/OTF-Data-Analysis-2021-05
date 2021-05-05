@@ -68,6 +68,7 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 
 ## Presentation Links
 
+- [Presentation](http://bit.ly/OTFDataAnalysis)
 - [GitHub Repository](https://github.com/pbeens/OTF-Data-Analysis-2021-05)
 - Demos:
   - [Inputting X-Y Data from Google Sheets](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Input_Data_from_Google_Sheet.ipynb)

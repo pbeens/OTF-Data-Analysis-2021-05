@@ -13,6 +13,7 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
   - [Colab Resources](#colab-resources)
   - [Other Data Science Resources](#other-data-science-resources)
   - [Plotting Resources](#plotting-resources)
+  - [Presentation Links](#presentation-links)
   - [Suggestions or Issues?](#suggestions-or-issues)
 
 ## Basic Process
@@ -44,7 +45,6 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 - [Markdown Guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
 - [Integrating Google Drive into Google Colab](https://www.beens.ca/integrating-google-drive-into-google-colab-notebooks/) ([Video](https://www.youtube.com/watch?v=X1mgKfsr3xY) also)
 
-
 ## Other Data Science Resources
 
 - [Coursera - Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
@@ -65,6 +65,19 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 
 - [Line Styles](https://matplotlib.org/3.0.3/gallery/lines_bars_and_markers/line_styles_reference.html)
 - [Writing mathematical expressions](https://matplotlib.org/stable/tutorials/text/mathtext.html)
+
+## Presentation Links
+
+- [GitHub Repository](https://github.com/pbeens/OTF-Data-Analysis-2021-05)
+- Demos:
+  - [Demo_Input_Data_from_Google_Sheet.ipynb](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Input_Data_from_Google_Sheet.ipynb)
+  - [Demo_Input_Data_from_Table_on_Website_(CAFE).ipynb](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Input_Data_from_Table_on_Website_(CAFE).ipynb)
+  - [Demo_Bar_Chart_Mass_of_Planets.ipynb](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Bar_Chart_Mass_of_Planets.ipynb)
+  - [Demo_Adding_a_New_Column_using_Math.ipynb](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Adding_a_New_Column_using_Math.ipynb)
+  - [Demo_Fixing_Data.ipynb](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Fixing_Data.ipynb)
+- Data Analysis Template ([GitHub](http://bit.ly/beensdatatemplategithub) | [Colab](http://bit.ly/beensdatatemplate))
+- [Callysto](https://www.callysto.ca/)
+- [Callysto Hackathon for Teachers](https://sites.google.com/view/callystohackathon/)
 
 ## Suggestions or Issues?
 

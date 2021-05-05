@@ -7,7 +7,6 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
 ## Table of Contents
 
 - [OTF-Data-Analysis-2021-05](#otf-data-analysis-2021-05)
-  - [Table of Contents](#table-of-contents)
   - [Basic Process](#basic-process)
   - [Data Sources](#data-sources)
   - [Colab Resources](#colab-resources)

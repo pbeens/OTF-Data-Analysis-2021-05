@@ -73,7 +73,7 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
   - [Inputting X-Y Data from Google Sheets](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Input_Data_from_Google_Sheet.ipynb)
   - [Inputting Data from Table on_Website (CAFE)](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Input_Data_from_Table_on_Website_(CAFE).ipynb)
   - [Bar Chart Mass of Planets from Wikipedia](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Bar_Chart_Mass_of_Planets.ipynb)
-  - [Adding a New Column with a Formula.ipynb](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Adding_a_New_Column_using_Math.ipynb)
+  - [Adding a New Column with a Formula](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Adding_a_New_Column_using_Math.ipynb)
   - [Some Data Fix Examples](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Fixing_Data.ipynb)
 - Data Analysis Template ([GitHub](http://bit.ly/beensdatatemplategithub) | [Colab](http://bit.ly/beensdatatemplate))
 - [Callysto](https://www.callysto.ca/)

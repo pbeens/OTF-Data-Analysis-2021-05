@@ -1,8 +1,12 @@
 # OTF-Data-Analysis-2021-05
 
-This repository is for the OTF Data Analysis webinar on May 6, 2021, presented by Peter Beens ([@pbeens](https://twitter.com/pbeens)) and Grant Hutchison ([@grant_hutchison](https://twitter.com/grant_hutchison)).
+This repository is for the OTF Data Analysis webinar that was presented on May 6, 2021 by Peter Beens ([@pbeens](https://twitter.com/pbeens)) and Grant Hutchison ([@grant_hutchison](https://twitter.com/grant_hutchison)).
 
-The presentation is a live demo of Google Colab, Google's implementation of Jupyter Notebook. We will learn how Colab is an excellent tool for the "Computational Thinking" process, in that it's an ideal way to analyze and document a problem and formulate a programming solution.
+The presentation was a live demo of Google Colab, Google's implementation of Jupyter Notebook. We learned how Colab is an excellent tool for the "Computational Thinking" process, in that it's an ideal way to analyze and document a problem and formulate a programming solution.
+
+The video of this presentation can be found [here](https://youtu.be/r8D1DU5hmUM).
+
+The slideshow can be found [here](http://bit.ly/OTFDataAnalysis).
 
 ## Table of Contents
 

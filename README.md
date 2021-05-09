@@ -75,7 +75,7 @@ The presentation is a live demo of Google Colab, Google's implementation of Jupy
   - [Bar Chart Mass of Planets from Wikipedia](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Bar_Chart_Mass_of_Planets.ipynb)
   - [Adding a New Column with a Formula.ipynb](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Adding_a_New_Column_using_Math.ipynb)
   - [Some Data Fix Examples](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Fixing_Data.ipynb)
-- Data Analysis Template ([GitHub](http://bit.ly/beensdatatemplategithub) | [Colab](http://bit.ly/beensdatatemplate))
+- Data Analysis Template ([GitHub](http://bit.ly/beensdatatemplategithub) | [Colab](https://is.gd/BeensDataTemplate))
 - [Callysto](https://www.callysto.ca/)
 - [Callysto Hackathon for Teachers](https://sites.google.com/view/callystohackathon/)
 

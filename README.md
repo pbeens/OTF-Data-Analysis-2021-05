@@ -11,13 +11,29 @@ The slideshow can be found [here](http://bit.ly/OTFDataAnalysis).
 ## Table of Contents
 
 - [OTF-Data-Analysis-2021-05](#otf-data-analysis-2021-05)
+  - [Table of Contents](#table-of-contents)
+  - [Presentation Links](#presentation-links)
   - [Basic Process](#basic-process)
   - [Data Sources](#data-sources)
   - [Colab Resources](#colab-resources)
   - [Other Data Science Resources](#other-data-science-resources)
   - [Plotting Resources](#plotting-resources)
-  - [Presentation Links](#presentation-links)
   - [Suggestions or Issues?](#suggestions-or-issues)
+
+## Presentation Links
+
+- [Presentation](http://bit.ly/OTFDataAnalysis)
+- [GitHub Repository](https://github.com/pbeens/OTF-Data-Analysis-2021-05)
+- Demos:
+  - [Inputting X-Y Data from Google Sheets](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Input_Data_from_Google_Sheet.ipynb)
+  - [Inputting Data from Table on Website (CAFE)](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Input_Data_from_Table_on_Website_(CAFE).ipynb)
+  - [Bar Chart - Mass of Planets from Wikipedia](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Bar_Chart_Mass_of_Planets.ipynb)
+  - [Adding a New Column with a Formula](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Adding_a_New_Column_using_Math.ipynb)
+  - [Some Data Fix Examples](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Fixing_Data.ipynb)
+- Data Analysis Template ([GitHub](http://bit.ly/beensdatatemplategithub) | [Colab](https://is.gd/BeensDataTemplate))
+- [Callysto](https://www.callysto.ca/)
+- [Callysto Hackathon for Teachers](https://sites.google.com/view/callystohackathon/)
+
 
 ## Basic Process
 
@@ -68,20 +84,6 @@ The slideshow can be found [here](http://bit.ly/OTFDataAnalysis).
 
 - [Line Styles](https://matplotlib.org/3.0.3/gallery/lines_bars_and_markers/line_styles_reference.html)
 - [Writing mathematical expressions](https://matplotlib.org/stable/tutorials/text/mathtext.html)
-
-## Presentation Links
-
-- [Presentation](http://bit.ly/OTFDataAnalysis)
-- [GitHub Repository](https://github.com/pbeens/OTF-Data-Analysis-2021-05)
-- Demos:
-  - [Inputting X-Y Data from Google Sheets](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Input_Data_from_Google_Sheet.ipynb)
-  - [Inputting Data from Table on Website (CAFE)](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Input_Data_from_Table_on_Website_(CAFE).ipynb)
-  - [Bar Chart - Mass of Planets from Wikipedia](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Bar_Chart_Mass_of_Planets.ipynb)
-  - [Adding a New Column with a Formula](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Adding_a_New_Column_using_Math.ipynb)
-  - [Some Data Fix Examples](https://github.com/pbeens/OTF-Data-Analysis-2021-05/blob/main/Demo_Fixing_Data.ipynb)
-- Data Analysis Template ([GitHub](http://bit.ly/beensdatatemplategithub) | [Colab](https://is.gd/BeensDataTemplate))
-- [Callysto](https://www.callysto.ca/)
-- [Callysto Hackathon for Teachers](https://sites.google.com/view/callystohackathon/)
 
 ## Suggestions or Issues?
 

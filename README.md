@@ -11,7 +11,6 @@ The slideshow can be found [here](http://bit.ly/OTFDataAnalysis).
 ## Table of Contents
 
 - [OTF-Data-Analysis-2021-05](#otf-data-analysis-2021-05)
-  - [Table of Contents](#table-of-contents)
   - [Presentation Links](#presentation-links)
   - [Basic Process](#basic-process)
   - [Data Sources](#data-sources)
